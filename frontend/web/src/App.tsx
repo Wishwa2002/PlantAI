@@ -1,12 +1,9 @@
+import Home from "./pages/Home";
 
 function App() {
-
-
   return (
-    <>
-      <h1>Plant AI</h1>
-    </>
-  )
+    <Home />
+  );
 }
 
-export default App
+export default App;
